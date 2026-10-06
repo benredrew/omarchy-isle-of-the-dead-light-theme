@@ -1,0 +1,37 @@
+mode = "light"
+
+# Isle of the Dead Light (Böcklin, 1883): surfaces from the rose-grey lit face
+# of the right-hand tower, cypress ink for text, colors weathered to stone.
+accent = "#5E462D"
+selection = "#D9CEC2"
+muted = "#6B635D"
+
+background = "#C7B8A6"
+dark_background = "#C1B19D"
+darker_background = "#BBA993"
+lighter_background = "#C4B4A1"
+
+foreground = "#1E1B22"
+dark_foreground = "#4F4952"
+light_foreground = "#3A3540"
+bright_foreground = "#121016"
+
+# Window focus runs from the lichen-stained rock into the storm sky.
+hyprland_active_border = "#80603E #6E7488 45deg"
+hyprland_inactive_border = "#B5A28A"
+
+red = "#6A3F37"
+yellow = "#59482C"
+orange = "#60452D"
+green = "#444D3C"
+cyan = "#394D4D"
+blue = "#434A5F"
+magenta = "#574551"
+brown = "#55483D"
+
+bright_red = "#774A42"
+bright_yellow = "#645234"
+bright_green = "#4F5847"
+bright_cyan = "#445959"
+bright_blue = "#4E556A"
+bright_magenta = "#62505C"
